@@ -1,1 +1,2 @@
-it's new 
+# project
+ todo app 
